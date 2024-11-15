@@ -7,4 +7,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glad-tidings&show_icons=true&locale=en" alt="glad-tidings" /></p>
 
+## ☕Buy me a coffee
+```
+USDT(TRC20): TRjdnBWpS1xT4a2oKQdFsM3AAc6TxVmqGZ
+TON: UQBmpnet6lYCLXObDwJLitDuMcPIocJIKVxg6pLvaFv5fRmO
+```
+
 ![](http://visit.parselecom.com/Api/Visit/36/458797)
