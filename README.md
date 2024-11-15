@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navid SP</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glad-tidings&label=Profile%20views&color=0e75b6&style=flat" alt="glad-tidings" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glad-tidings" alt="glad-tidings" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
