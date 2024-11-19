@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glad-tidings&show_icons=true&locale=en&layout=compact" alt="glad-tidings" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glad-tidings&show_icons=true&locale=en" alt="glad-tidings" /></p>
+<p>&nbsp;<img align="center" src="http://visit.parselecom.com/Api/Github/Stats/glad-tidings" alt="glad-tidings" /></p>
 
 ## ☕Buy me a coffee
 ```
@@ -13,4 +13,4 @@ USDT(TRC20): TRjdnBWpS1xT4a2oKQdFsM3AAc6TxVmqGZ
 TON: UQBmpnet6lYCLXObDwJLitDuMcPIocJIKVxg6pLvaFv5fRmO
 ```
 
-![](http://visit.parselecom.com/Api/Visit/36/458797)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/Profile/458797)
